@@ -1,0 +1,14 @@
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/uygulama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/uygulama.AssemblyInfoInputs.cache
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/uygulama.AssemblyInfo.cs
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/uygulama.csproj.CoreCompileInputs.cache
+/Users/birsenseydabodur/Desktop/uygulama/bin/Debug/net10.0/uygulama
+/Users/birsenseydabodur/Desktop/uygulama/bin/Debug/net10.0/uygulama.deps.json
+/Users/birsenseydabodur/Desktop/uygulama/bin/Debug/net10.0/uygulama.runtimeconfig.json
+/Users/birsenseydabodur/Desktop/uygulama/bin/Debug/net10.0/uygulama.dll
+/Users/birsenseydabodur/Desktop/uygulama/bin/Debug/net10.0/uygulama.pdb
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/uygulama.dll
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/refint/uygulama.dll
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/uygulama.pdb
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/uygulama.genruntimeconfig.cache
+/Users/birsenseydabodur/Desktop/uygulama/obj/Debug/net10.0/ref/uygulama.dll

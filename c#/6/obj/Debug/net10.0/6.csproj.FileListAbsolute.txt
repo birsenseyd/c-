@@ -1,0 +1,4 @@
+/Users/birsenseydabodur/Desktop/6/obj/Debug/net10.0/6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/birsenseydabodur/Desktop/6/obj/Debug/net10.0/6.AssemblyInfoInputs.cache
+/Users/birsenseydabodur/Desktop/6/obj/Debug/net10.0/6.AssemblyInfo.cs
+/Users/birsenseydabodur/Desktop/6/obj/Debug/net10.0/6.csproj.CoreCompileInputs.cache

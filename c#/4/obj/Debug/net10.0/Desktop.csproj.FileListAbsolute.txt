@@ -1,0 +1,14 @@
+/Users/birsenseydabodur/Desktop/4/bin/Debug/net10.0/Desktop
+/Users/birsenseydabodur/Desktop/4/bin/Debug/net10.0/Desktop.deps.json
+/Users/birsenseydabodur/Desktop/4/bin/Debug/net10.0/Desktop.runtimeconfig.json
+/Users/birsenseydabodur/Desktop/4/bin/Debug/net10.0/Desktop.dll
+/Users/birsenseydabodur/Desktop/4/bin/Debug/net10.0/Desktop.pdb
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/Desktop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/Desktop.AssemblyInfoInputs.cache
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/Desktop.AssemblyInfo.cs
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/Desktop.csproj.CoreCompileInputs.cache
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/Desktop.dll
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/refint/Desktop.dll
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/Desktop.pdb
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/Desktop.genruntimeconfig.cache
+/Users/birsenseydabodur/Desktop/4/obj/Debug/net10.0/ref/Desktop.dll
