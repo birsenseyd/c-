@@ -1,0 +1,4 @@
+/Users/birsenseydabodur/Desktop/NDP/obj/Debug/net10.0/NDP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/birsenseydabodur/Desktop/NDP/obj/Debug/net10.0/NDP.AssemblyInfoInputs.cache
+/Users/birsenseydabodur/Desktop/NDP/obj/Debug/net10.0/NDP.AssemblyInfo.cs
+/Users/birsenseydabodur/Desktop/NDP/obj/Debug/net10.0/NDP.csproj.CoreCompileInputs.cache
